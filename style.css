@@ -1,0 +1,32 @@
+canvas{
+    /* display: block; */
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+body{
+    background-image: url("background.jpg");
+}
+h1{
+        text-align: center;
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+.btn{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 92%;
+    left: 50%;
+    width: 802px;
+    height: 50px;
+    font-size: 3rem;
+    color: white;
+    background-color: grey;
+    border: none;
+}
+*{
+    font-family: 'Bangers', cursive;
+
+}
